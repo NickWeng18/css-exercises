@@ -1,0 +1,19 @@
+.odd {
+    background-color: #ffbfb6;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#Second {
+    color: #0c2aac;
+    font-size: 36px;
+}
+
+.special-odd {
+    font-size: 24px;
+}
+
+#Second-ID {
+    background-color: #ccff00;
+    font-size: 24px;
+    font-weight: bold;
+}
