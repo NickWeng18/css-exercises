@@ -7,9 +7,8 @@ body {
   background: #eee;
   font-family: Besley, serif;
   display: flex;
-  flex: auto;
   justify-content: space-between;
-  padding: 8px;
+  padding: 16px;
 }
 
 .header {
