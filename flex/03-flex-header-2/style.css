@@ -8,10 +8,8 @@ body {
   font-family: Besley, serif;
   display: flex;
   flex: auto;
-  align-items: center;
   justify-content: space-between;
   padding: 8px;
-  flex-direction: row;
 }
 
 .header {
@@ -33,7 +31,11 @@ body {
   font-size: 32px;
   font-weight: 900;
   font-style: italic;
+}
+
+.leftside .rightside {
   display: flex;
+  align-items: center;
 }
 
 button {
@@ -42,7 +44,6 @@ button {
   background: rebeccapurple;
   color: white;
   padding: 8px 24px;
-  display: flex;
 }
 
 a {
