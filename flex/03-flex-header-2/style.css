@@ -6,6 +6,9 @@ body {
   margin: 0;
   background: #eee;
   font-family: Besley, serif;
+  display: flex;
+  flex: auto;
+  align-items: center;
 }
 
 .header {
@@ -45,4 +48,6 @@ a {
 
 ul {
   list-style-type: none;
+  display: flex;
+  gap: 8px;
 }
