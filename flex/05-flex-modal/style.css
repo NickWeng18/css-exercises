@@ -29,6 +29,11 @@ body {
   font-weight: bold;
 }
 
+.content {
+  display: flex;
+  flex-direction: column;
+}
+
 .icon {
   color: royalblue;
   font-size: 26px;
