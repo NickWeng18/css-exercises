@@ -7,6 +7,12 @@ img {
   height: 100px;
 }
 
+.mainbody {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
 .title {
   font-size: 36px;
   font-weight: 900;
