@@ -39,7 +39,7 @@ input {
 .footer {
   display: flex;
   justify-content: space-between;
-  padding: 16px;
+  padding: 8px;
   background-color: #eeeeee;
 }
 
@@ -51,14 +51,13 @@ input {
   gap: 16px;
 }
 
-.left-links, .right-links{
-  gap: 6px;
-}
 
 ul{
   display: flex;
   list-style: none;
   gap: 16px;
+  margin: 0;
+  padding: 0;
 }
 
 a {
