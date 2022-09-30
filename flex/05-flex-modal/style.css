@@ -12,7 +12,6 @@ body {
   /* I'll give you this one for free lol */
   display: flex;
   align-items: center;
-  justify-content: center;
 }
 
 .modal {
