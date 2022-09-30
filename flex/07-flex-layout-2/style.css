@@ -20,6 +20,7 @@ body {
   height: 72px;
   background: #eee;
   color: darkmagenta;
+  display: flex;
   align-items: center;
   justify-content: center;
 }
@@ -27,7 +28,7 @@ body {
 .sidebar {
   width: 300px;
   background: royalblue;
-  flex: 0;
+  flex-shrink: 0;
   padding: 16px;
 }
 
@@ -37,6 +38,7 @@ body {
   border-radius: 4px;
   padding: 32px;
   width: 300px;
+  margin: 16px;
 }
 
 a {
@@ -53,4 +55,10 @@ a {
 .body {
   display: flex;
   flex: 1;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
