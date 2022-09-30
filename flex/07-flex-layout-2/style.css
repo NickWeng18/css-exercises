@@ -13,7 +13,7 @@ body {
   font-size: 32px;
   font-weight: 900;
   align-items: center;
-  margin-left: 16px;
+  padding: 16px;
 }
 
 .footer {
